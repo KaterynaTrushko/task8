@@ -1,0 +1,9 @@
+import { newData } from "./news";
+
+
+
+
+
+
+  
+
